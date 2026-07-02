@@ -35,6 +35,6 @@ Hotel Website
 
 ## 👨‍💻 Developed By
 
-Student Name
+Hasmitha
 
 MANTRA 2026 Summer School
